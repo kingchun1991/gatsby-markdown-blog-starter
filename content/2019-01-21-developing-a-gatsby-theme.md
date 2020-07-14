@@ -18,9 +18,9 @@ tags:
 [![Test youtube video](https://img.youtube.com/vi/XULUBg_ZcAU/0.jpg)](https://www.youtube.com/watch?v=XULUBg_ZcAU)
 
 ### html
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=XULUBg_ZcAU
+" target="_blank"><img src="https://img.youtube.com/vi/XULUBg_ZcAU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 Lorem markdownum nunc fuerat vulgaris ipse. Profecisse Atridae flumen perit
 huic, non bis, summa retemptat. Praedelassat tollitur parte capiebant lustratum
